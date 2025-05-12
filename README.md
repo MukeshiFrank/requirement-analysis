@@ -53,3 +53,29 @@ These describe how the system should behave.
 - The system should support 1000 concurrent users.
 - Data should be encrypted during transmission (security).
 
+
+
+
+
+
+## Use Case Diagrams
+
+Use Case Diagrams visualize the interaction between users (actors) and the system. They help stakeholders understand the system’s functional scope.
+
+![Booking Use Case Diagram](alx-booking-uc.png)
+
+
+
+
+
+
+## Acceptance Criteria
+
+Acceptance Criteria are predefined conditions that a product feature must satisfy to be accepted by users or stakeholders. They ensure clarity in what needs to be delivered and help testers verify the functionality.
+
+**Example (Checkout Feature in Booking System):**
+- User must be logged in to access the checkout.
+- User can review property details before confirming.
+- Payment must be processed through a secure gateway.
+- Confirmation email is sent after successful booking.
+
